@@ -4,6 +4,7 @@ package ru.leo.javacore.lesson9genericsbegin;
 import java.util.function.Consumer;
 
 class Person {
+    int id =5;
     String name;
     int age;
 
